@@ -1,16 +1,31 @@
-#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda,
+#shopify-section-template--19279067414816__78e8f378-5871-4c5b-a590-e8b04274fdcb,
+#shopify-section-template--19279067250976__a507d3d4-3a39-4064-9e1a-920b0f4041a8,
+#shopify-section-template--19279067021600__656871b7-0dc8-49c4-94ed-d857559f55e3
 {
   background: url(https://cdn.shopify.com/s/files/1/0740/9818/0384/files/gift-cards-bg.png?v=1686131833);
 }
 
-#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__media {
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__media,
+#shopify-section-template--19279067414816__78e8f378-5871-4c5b-a590-e8b04274fdcb .image-with-text__media,
+#shopify-section-template--19279067250976__a507d3d4-3a39-4064-9e1a-920b0f4041a8 .image-with-text__media,
+#shopify-section-template--19279067021600__656871b7-0dc8-49c4-94ed-d857559f55e3 .image-with-text__media
+{
   transform: scale(0.7);
 }
 
-#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content {
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content,
+#shopify-section-template--19279067414816__78e8f378-5871-4c5b-a590-e8b04274fdcb .image-with-text__content,
+#shopify-section-template--19279067250976__a507d3d4-3a39-4064-9e1a-920b0f4041a8 .image-with-text__content,
+#shopify-section-template--19279067021600__656871b7-0dc8-49c4-94ed-d857559f55e3 .image-with-text__content
+{
   --gradient-background: initial;
 }
 
-#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content .subtitle {
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content .subtitle,
+#shopify-section-template--19279067414816__78e8f378-5871-4c5b-a590-e8b04274fdcb .image-with-text__content .subtitle,
+#shopify-section-template--19279067250976__a507d3d4-3a39-4064-9e1a-920b0f4041a8 .image-with-text__content .subtitle,
+#shopify-section-template--19279067021600__656871b7-0dc8-49c4-94ed-d857559f55e3 .image-with-text__content .subtitle
+{
   font-weight: bold;
 }
