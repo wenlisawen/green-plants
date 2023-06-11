@@ -1,0 +1,16 @@
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda
+{
+  background: url(https://cdn.shopify.com/s/files/1/0740/9818/0384/files/gift-cards-bg.png?v=1686131833);
+}
+
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__media {
+  transform: scale(0.7);
+}
+
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content {
+  --gradient-background: initial;
+}
+
+#shopify-section-template--19279067119904__9767f401-cc66-48f2-be33-d22dc86f9dda .image-with-text__content .subtitle {
+  font-weight: bold;
+}

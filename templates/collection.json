@@ -1,0 +1,92 @@
+{
+  "sections": {
+    "3f675a81-220a-4f8a-b7a8-9b151d41124e": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/product_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 3,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "656871b7-0dc8-49c4-94ed-d857559f55e3": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18491920089376__656871b7-0dc8-49c4-94ed-d857559f55e3-1686392722308b7b9f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gift Cards",
+            "heading_size": "h1"
+          }
+        },
+        "template--18491920089376__656871b7-0dc8-49c4-94ed-d857559f55e3-1686392722308b7b9f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The  perfect gift for you and your love!<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--18491920089376__656871b7-0dc8-49c4-94ed-d857559f55e3-1686392722308b7b9f-0",
+        "template--18491920089376__656871b7-0dc8-49c4-94ed-d857559f55e3-1686392722308b7b9f-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/giftcard_d863df8e-2dc9-4e1b-8306-6082131d7cb9.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "3f675a81-220a-4f8a-b7a8-9b151d41124e",
+    "banner",
+    "product-grid",
+    "656871b7-0dc8-49c4-94ed-d857559f55e3"
+  ]
+}

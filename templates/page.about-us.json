@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "b600d67a-8a9d-436a-9cb9-44f6a0773438": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/product_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "391c9616-1fec-4240-b15f-cfb0dbcbda7b": {
+      "type": "image-with-text",
+      "blocks": {
+        "571d9701-c6dd-4302-8fde-58b62855099a": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Green Plants",
+            "heading_size": "h1"
+          }
+        },
+        "5a43eed8-b865-4c7d-87d7-e5c75d4523bb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All Plants are grown in New Zealand.<br\/>Here at Green Plants How, whether you’re an apartment dweller with an affection for houseplants, a novice gardener putting in your first edible garden, or a master gardener looking to learn how to transform your harvest into delicious meals, everyone is welcome here. We know how dirt feels between our fingers, how thrilling it can be to see your first seedling or blossom of the year appear and how good it tastes to bite into that fresh fruit you just picked from your very own garden. And because we’re gardeners too, our goal is simple: we want to make sure you get to experience that too! More than anything, gardening is fun, and we want to help you garden happier!<br\/><br\/>                   <br\/><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "571d9701-c6dd-4302-8fde-58b62855099a",
+        "5a43eed8-b865-4c7d-87d7-e5c75d4523bb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_18.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a507d3d4-3a39-4064-9e1a-920b0f4041a8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18491920187680__a507d3d4-3a39-4064-9e1a-920b0f4041a8-16863933499a4abd4a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gift Cards",
+            "heading_size": "h1"
+          }
+        },
+        "template--18491920187680__a507d3d4-3a39-4064-9e1a-920b0f4041a8-16863933499a4abd4a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The perfect gift for you and your love!<\/p>",
+            "text_style": "subtitle"
+          }
+        }
+      },
+      "block_order": [
+        "template--18491920187680__a507d3d4-3a39-4064-9e1a-920b0f4041a8-16863933499a4abd4a-0",
+        "template--18491920187680__a507d3d4-3a39-4064-9e1a-920b0f4041a8-16863933499a4abd4a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/giftcard_d863df8e-2dc9-4e1b-8306-6082131d7cb9.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "b600d67a-8a9d-436a-9cb9-44f6a0773438",
+    "main",
+    "391c9616-1fec-4240-b15f-cfb0dbcbda7b",
+    "a507d3d4-3a39-4064-9e1a-920b0f4041a8"
+  ]
+}
