@@ -16,6 +16,15 @@
         "show_text_below": false
       }
     },
+    "474b59ac-de28-432c-903d-f6b6cfdf4332": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% render 'breadcrumbs' %}",
+        "color_scheme": "background-1",
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -140,6 +149,7 @@
   },
   "order": [
     "45acf90c-464d-4eba-8131-a969a634bfe5",
+    "474b59ac-de28-432c-903d-f6b6cfdf4332",
     "main",
     "related-products",
     "78e8f378-5871-4c5b-a590-e8b04274fdcb"
